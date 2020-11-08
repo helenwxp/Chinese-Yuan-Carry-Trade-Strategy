@@ -6,7 +6,7 @@ My graduation thesis for Bachelor's Degree focused on a popular speculation acti
 Python codes for cleansing data and constructing the trade strategy.
 
 **usdcarr_modelling.R**  
-R codes for LSTR modelling of usd/cny single currency pair carry trade.
+R codes for LSTR modelling of USD/CNY single currency pair carry trade.
 
 **ggplot2practice.R**  
 R codes for visualizing the movement of relevant economic variables.
