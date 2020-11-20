@@ -7,6 +7,11 @@ My graduation thesis for Bachelor's Degree focused on a popular speculation acti
 **Fml Portfolio Construction.ipynb**  
 Python codes for cleansing data and constructing the trade strategy.
 
+**Cumulative Return to the single currency pair/equally-weighted carry trade strategy is illustrated in the following graph:**
+
+![cumsum_v2.png](https://github.com/helenwxp/Chinese-Yuan-Carry-Trade-Strategy/blob/main/cumsum_v2.png)
+
+
 **usdcarr_modelling.R**  
 R codes for LSTR modelling of USD/CNY single currency pair carry trade.
 
@@ -16,6 +21,7 @@ R codes for visualizing the movement of relevant economic variables.
 For instance,
 
 **1.Interest Rate**
+
 
 ![inttrend.png](https://github.com/helenwxp/Chinese-Yuan-Carry-Trade-Strategy/blob/main/inttrend.png)
 
