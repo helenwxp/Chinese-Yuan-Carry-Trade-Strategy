@@ -12,17 +12,19 @@ R codes for LSTR modelling of USD/CNY single currency pair carry trade.
 
 **ggplot2practice.R**  
 R codes for visualizing the movement of relevant economic variables.
-
 For instance,
-
 **1.Interest Rate**
+
 ![inttrend.png](https://github.com/helenwxp/Chinese-Yuan-Carry-Trade-Strategy/blob/main/inttrend.png)
 
 **2.USDCNY Historical Volatility**
+
 ![usdfxtr.png](https://github.com/helenwxp/Chinese-Yuan-Carry-Trade-Strategy/blob/main/usdfxtr.png)
 
 **3.USDCNY Implied Volatility**
+
 ![usdimpldvol.png](https://github.com/helenwxp/Chinese-Yuan-Carry-Trade-Strategy/blob/main/usdimpldvol.png)
 
 **4.Historical Volatility--Comparison among major currency pairs**
+
 ![c-svol.png](https://github.com/helenwxp/Chinese-Yuan-Carry-Trade-Strategy/blob/main/c-svol.png)
